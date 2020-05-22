@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
 title: Iric Schoenfeld
 description: Site to share projects.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
