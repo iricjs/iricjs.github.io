@@ -6,9 +6,10 @@ description: "Project: Analyzing California wine grape prices using Python and T
 
 # To start
 
-I have a fondness for the wine industry, having previously worked for Constellation Brands in a finance/strategy role for their wine division. I've since consulted with several labels in Napa and try to keep a foot in the door to stay current.
+I have a passion for the wine industry, having previously worked for Constellation Brands in a finance/strategy role in their wine & spirits division. I've since consulted with several labels in Napa and try to keep a foot in the door to stay current.
 
-Grape prices can be rather volatile so I thought it would be interesting to create a tool that tracks the spot price. Most transactions are private, typically made through a broker or with a handshake in the vineyard between grower and vintner. With that being said, www.winebusiness.com has an active classifieds where users can post listings for grapes and bulk wine.
+# A note on wine grape prices
+Grape prices can be rather volatile so I thought it would be interesting to create a tool that attempts to track the spot price with publically available data. Most transactions are private, typically made through a broker or with a handshake in the vineyard between grower and vintner. With that being said, <a href="https://winebusiness.com">www.WineBusiness.com</a> has an active classifieds where users can post listings for grapes and bulk wine.
 
 # Pulling the data
 
@@ -50,6 +51,6 @@ The last image digs further into the Cab Sauv price range that we saw earlier. T
 
 # Summary
 
-This project shows that with a little coding on the front end we can save a lot of time down the road. This analysis can now be refreshed and reviewed daily with no additional work. This could be useful information for winemakers, growers, and brokers.
+This project shows that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, it could be used to get a better understanding of the overall direction of the market. This could be useful information for winemakers, growers, and brokers.
 
 [back](./)
