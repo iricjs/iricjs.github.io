@@ -7,9 +7,11 @@ description: "Project: Analyzing California wine grape prices using Python"
 # Summary
 
 asdfasdf
+asdfsadfsdf
+
+adsfasdfsf
 
 # Pulling the data
-
 asdfasdfasdf
 
 # Analyzing the data
