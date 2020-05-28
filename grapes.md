@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Iric Schoenfeld
-description: Project: test
+description: Projects
 ---
 
-aa 
+# Projects
+## Projects
 
 <img src="/images/Tableau1.JPG">
 
