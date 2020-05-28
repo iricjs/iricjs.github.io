@@ -25,7 +25,7 @@ When ran the command line reads back:
 >
 > No errors detected
 
-For technical users, the script uses the following libraries:
+For technical users, the script uses the following Python libraries:
 *   Beautiful Soup for scraping
 *   Pandas for organizing the scraped data
 *   Tkinter to create a basic GUI
