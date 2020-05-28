@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Iric Schoenfeld
-description: Finance - Data Analytics - Insights to Action
+description: Corporate Finance - Data Analytics
 ---
 
 # Projects
