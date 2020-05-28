@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Iric Schoenfeld
-description: Project:
+description: Project: test
 ---
 
-## Analyzing California wine grape prices using Python
+aa 
 
 <img src="/images/Tableau1.JPG">
 
