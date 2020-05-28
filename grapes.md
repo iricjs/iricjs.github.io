@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Projects
-description:
+description: Analyzing California wine grape prices using Python
 ---
 
-## Welcome to another page
+## Analyzing California wine grape prices using Python
 
 _yay_
 
