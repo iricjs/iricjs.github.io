@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <a href="www.iricschoenfeld.com" style="color:blue;">Iric Schoenfeld</a>
+title: <a href="www.iricschoenfeld.com" style="color:white;">Iric Schoenfeld</a>
 description: "Project: Analyzing California wine grape prices using Python and Tableau"
 ---
 
