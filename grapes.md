@@ -20,7 +20,9 @@ To pull the data I enlisted the help of Python. Python is by far the best tool t
 When ran the command line reads back:
 
 > Listings found = 861
+>
 > Listings scraped = 861
+>
 > No errors detected
 
 For technical users, the script uses the following libraries:
