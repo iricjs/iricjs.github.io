@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: <a href="http://www.google.com">Google</a>
 description: Analyzing California wine grape prices using Python
 ---
 
