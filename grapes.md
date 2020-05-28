@@ -13,7 +13,7 @@ Grape prices can be rather volatile so I thought it would be interesting to crea
 
 # Pulling the data
 
-To pull the data I enlisted the help of Python. Python is by far the best tool that I know of for automated data collection. With minimal code, I was able to create a tool that scraped grape listings from winebusiness.com and then exported the results to Microsoft Excel. The tool takes less than 30 seconds to run and could even be automated further by scheduling it to run daily without any user action.
+To scrape the data I wrote a simple program in Python. Python is the best tool that I know of for automated data collection. With minimal code, I was able to create a tool that scraped grape listings from winebusiness.com and then exported the results to Microsoft Excel. The tool takes less than 30 seconds to run and could even be automated further by scheduling it to run daily without any user action.
 
 <img src="/images/gui.JPG">
 
@@ -56,14 +56,14 @@ Now we have a better view of price per ton by varietal.
 <img src="/images/Tableau3.JPG">
 
 ## Insight 4
-The last view dives further into the Cab Sauv price range that we saw earlier. This shows us price by appellation and could provide valuable insight. For example, if I was a winemaker and saw a good price for a desired appellation we could then reach out for further info.
+Lastly, we can dive further into the Cab Sauv price range that we saw earlier. This shows us price by appellation and could provide valuable insight. For example, if I was a winemaker and saw a good price for a desired appellation we could then reach out for further info.
 
 <img src="/images/Tableau4.JPG">
 
-All of these visualizations can be arranged on a single dashboard for quick daily viewing.
+**It should be noted that all of these visualizations can be arranged in a single dashboard for easy daily viewing.**
 
 # Summary
 
-This project shows that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, we could get a better understanding of the overall direction of the market. This could be useful information for winemakers, growers, and brokers.
+This project goes to show that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, we could get a better understanding of the overall direction of the market. Additional transparency into the grape market allows for more efficient pricing which benefits everyone: winemakers, growers, and brokers alike.
 
 [back](./)
