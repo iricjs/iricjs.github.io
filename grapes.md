@@ -9,7 +9,7 @@ description: "Project: Analyzing California wine grape prices using Python and T
 I have a passion for the wine industry, having previously worked for Constellation Brands in a finance/strategy role in their wine & spirits division. I've since consulted with several labels in Napa and try to keep a foot in the door to stay current.
 
 # A note on wine grape prices
-Grape prices can be rather volatile so I thought it would be interesting to create a tool that attempts to track the spot price with publically available data. Most transactions are private, typically made through a broker or with a handshake in the vineyard between grower and vintner. With that being said, <a href="https://www.winebusiness.com/">www.WineBusiness.com</a> has an active classifieds where users can post listings for grapes and bulk wine.
+Grape prices can be rather volatile so I thought it would be interesting to create a tool that attempts to track the spot price with publicly available data. Most transactions are private, typically made through a broker or with a handshake in the vineyard between grower and vintner. With that being said, <a href="https://www.winebusiness.com/">www.WineBusiness.com</a> has an active classifieds where users can post listings for grapes and bulk wine.
 
 # Pulling the data
 
@@ -32,7 +32,7 @@ The full script can be viewed and downloaded from <a href="https://github.com/ir
 
 # Analyzing the data
 
-I chose to analyze the data in Tableau for several reasons. First off, the data visualizations are more asthetically appealing. Secondly, the handoff of data from Python to Tableau is seamless and doesn't require the user to open Excel to refresh pivots or charts.
+I chose to analyze the data in Tableau for several reasons. First off, the data visualizations are more aesthetically appealing. Secondly, the handoff of data from Python to Tableau is seamless and doesn't require the user to open Excel to refresh pivots or charts.
 
 ## Insight 1
 The first viz is a simple summary of the data. We can see how many tons are available and the average price.
