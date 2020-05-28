@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <a href="http://www.iricschoenfeld.com" class="project-name">Iric Schoenfeld</a>
+title: [Iric Schoenfeld](./)
 description: Analyzing California wine grape prices using Python
 ---
 
