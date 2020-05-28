@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Iric Schoenfeld
-description: Projects
+description: Projects: Analyzing California wine grape prices using Python
 ---
 
 # Projects
-## Projects
 
 <img src="/images/Tableau1.JPG">
 
