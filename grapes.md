@@ -34,27 +34,27 @@ The full script can be viewed and downloaded from <a href="https://github.com/ir
 
 I chose to analyze the data in Tableau for several reasons. First off, the data visualizations are more asthetically appealing. Secondly, the handoff of data from Python to Tableau is seamless and doesn't require the user to open Excel to refresh pivots or charts.
 
-## Viz 1
+## Insight 1
 The first viz is a simple summary of the data. We can see how many tons are available and the average price.
 
 <img src="/images/Tableau1.JPG">
 
-## Viz 2
-The second viz was created to get a better understanding of price range. Grape prices for a single varietal will have a large range due to quality of various appellations, or growing regions.
+## Insight 2
+The second viz gives us a better understanding of price range. Prices for a single varietal will have a large range due to quality of various appellations, or growing regions.
 
 We can see here that prices for Cabernet Sauvignon range from less than $1K per ton to over $6K per ton. We will dig into this more later.
 
 <img src="/images/Tableau2.JPG">
 
-## Viz 3
-The previous viz showed that with such dramatic ranges it would be necessary to create a weighted average price per ton. Otherwise, the average price in the first viz would be misleading. In other words, the weighted average price will factor in how many tons are available at each price point.
+## Insight 3
+The prior viz showed us that with such dramatic ranges it would be necessary to create a weighted average price per ton. Otherwise, the average price in the first viz would be misleading. In other words, the weighted average price will factor in how many tons are available at each price point.
 
-Now we have a better view of price per ton by varietal. This graph would be the primary chart I would look at on a recurring basis to get an understanding of price.
+Now we have a better view of price per ton by varietal.
 
 <img src="/images/Tableau3.JPG">
 
-## Viz 4
-The last image digs further into the Cab Sauv price range that we saw earlier. This shows us price by appellation and could give us insights to dig in further. For example, if I was a winemaker and saw a good price for a desired appellation we could then reach out for further info.
+## Insight 4
+The last view dives further into the Cab Sauv price range that we saw earlier. This shows us price by appellation and could provide valuable insight. For example, if I was a winemaker and saw a good price for a desired appellation we could then reach out for further info.
 
 <img src="/images/Tableau4.JPG">
 
@@ -62,6 +62,6 @@ All of these visualizations can be arranged on a single dashboard for quick dail
 
 # Summary
 
-This project shows that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, it could be used to get a better understanding of the overall direction of the market. This could be useful information for winemakers, growers, and brokers.
+This project shows that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, we could get a better understanding of the overall direction of the market. This could be useful information for winemakers, growers, and brokers.
 
 [back](./)
