@@ -64,6 +64,6 @@ Lastly, we can dive further into the Cab Sauv price range that we saw earlier. T
 
 # Summary
 
-This project goes to show that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, we could get a better understanding of the overall direction of the market. Additional transparency into the grape market allows for more efficient pricing which benefits everyone: winemakers, growers, and brokers alike.
+This project goes to show that with a little coding on the front end we can save a lot of time down the road. By adding trend analysis over time, we could get a better understanding of the overall direction of the market. Additional transparency into the market allows for more efficient pricing which benefits everyone: winemakers, growers, and brokers alike.
 
 [back](./)
