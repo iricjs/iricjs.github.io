@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <a href="http://www.google.com">Google</a>
+title: <a href="http://www.iricschoenfeld.com">Iric Schoenfeld</a>
 description: Analyzing California wine grape prices using Python
 ---
 
