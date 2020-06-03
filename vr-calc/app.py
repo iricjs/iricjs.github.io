@@ -11,3 +11,4 @@ def contact():
     if form.validate_on_submit():
         return redirect(url_for('success'))
     return render_template('index.html', form=form)
+    
